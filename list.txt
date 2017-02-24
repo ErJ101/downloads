@@ -1,0 +1,15 @@
+http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/2/eclipse-java-mars-2-win32-x86_64.zip
+http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/2/eclipse-cpp-mars-2-win32-x86_64.zip
+http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/2/eclipse-php-mars-2-win32-x86_64.zip
+https://downloads.sourceforge.net/project/e-p-i-c/e-p-i-c/EPIC%200.6.13/org.epic.updatesite_0.6.13_20070808.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fe-p-i-c%2Ffiles%2Fe-p-i-c%2FEPIC%25200.6.13%2F&ts=1487923522&use_mirror=svwh
+http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe
+http://download.virtualbox.org/virtualbox/5.1.14/Oracle_VM_VirtualBox_Extension_Pack-5.1.14-112924.vbox-extpack
+http://www.7-zip.org/a/7z1604-x64.exe
+
+
+php all downloads
+
+http://windows.php.net/downloads/releases/php-5.6.30-Win32-VC11-x64.zip
+http://windows.php.net/downloads/releases/php-5.6.30-nts-Win32-VC11-x64.zip
+http://windows.php.net/downloads/releases/php-5.6.30-Win32-VC11-x86.zip
+http://windows.php.net/downloads/releases/php-5.6.30-nts-Win32-VC11-x86.zip
